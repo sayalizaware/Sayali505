@@ -31,10 +31,10 @@
 
 ## 🌐 Connect With Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/mauzzamshaikh1104/" target="blank">
+<a href="https://www.linkedin.com/in/sayali-zaware-cs/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/MAUZZAM123" target="blank">
+<a href="https://github.com/sayalizaware" target="blank">
 <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/>
 </a>
 <a href="mailto:sayalizaware505@gmail.com">
