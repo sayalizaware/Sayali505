@@ -1,7 +1,7 @@
 # Sayali505
 <!-- Animated Header -->
 <h1 align="center">
-  Hi 👋, I'm sayali
+  Hi 👋, I'm Sayali
 </h1>
 
 <h3 align="center">
